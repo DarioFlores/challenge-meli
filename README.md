@@ -9,3 +9,5 @@
 * 3 - Ahora puede ejecutar el programa de la carpeta raiz del proyecto con el comando:
 
     ``go run main.go``
+
+* 4 - Ya tiene un servidor escuchando en el puerto 8090
